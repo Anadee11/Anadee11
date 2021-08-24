@@ -3,7 +3,7 @@
 <h3 align="Left">  Tech Enthusiast | CSE Undergrad </h3> <br>
 
 
-<a href="https://twitter.com/Anadee20?s=08">
+<a href="https://twitter.com/Anadee11_?s=08">
   <img align="Left" alt="Anadee's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/anadee-yadav-11ay">
