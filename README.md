@@ -23,4 +23,4 @@
 -  **Fun fact :** When most developers love coffee, I prefer tea 🍵
 -  **Pronouns :** He/Him/His :innocent:
 
-<img align="center" src="https://camo.githubusercontent.com/1ce73e29e5be82b8e197fa02e80d11f805df72c6889cea9bd3a1fc3604b34877/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d416e616e74373339332673686f775f69636f6e733d74727565267468656d653d7261646963616c267469746c655f636f6c6f723d38453244453226746578745f636f6c6f723d6666662669636f6e5f636f6c6f723d384532444532" alt="Anadee11" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Anadee11&amp;show_icons=true&amp;theme=radical&amp;title_color=8E2DE2&amp;text_color=fff&amp;icon_color=8E2DE2" style="max-width:100%;">
+<img src="https://github-readme-stats.vercel.app/api?username=Anadee11&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
