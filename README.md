@@ -17,7 +17,7 @@
 
 ### 🤔 About
 -  **Working :**  Web Development :computer: | Programming  
--  **Learning :** DSA :zap: | Open-Source :fire:	
+-  **Learning :** DSA :zap: | React 🖤	
 -  **Hobbies :** Chess ♟️ | Music :headphones:
 -  **Ask me about :** I'm happy to help with anything I know :v:
 -  **Fun fact :** When most developers love coffee, I prefer tea 🍵
