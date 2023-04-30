@@ -17,7 +17,7 @@
 
 ### 🤔 About
 -  **Working :**  Open to opportunities   
--  **Learning :** DSA :zap: | React 🖤	
+-  **Learning :** DSA :zap: | NextJs 🖤	
 -  **Hobbies :** Chess ♟️ | Music :headphones:
 -  **Ask me about :** I'm happy to help with anything I know :v:
 -  **Fun fact :** When most developers love coffee, I prefer tea 🍵
