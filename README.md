@@ -6,7 +6,7 @@
 <a href="https://twitter.com/Anadee11_?s=08">
   <img align="Left" alt="Anadee's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/anadee-yadav-11ay">
+<a href="https://www.linkedin.com/in/anadee11">
   <img align="Left" alt="Anadee's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/Anadee11">
