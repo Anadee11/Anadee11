@@ -13,10 +13,10 @@
   <img align="Left" alt="Anadee's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 </br>
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="200px" width ="200px"" />
+<!-- <img align="right" alt="GIF" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="200px" width ="200px"" /> -->
 
 ### 🤔 About
--  **Working :**  Building [Dreamboat.ai](https://dreamboat.ai/)  
+-  **Working :**  SDE - EquirusWealth 
 -  **Learning :** DSA :zap: | NextJs 🖤	
 -  **Hobbies :** Chess ♟️ | Music :headphones:
 -  **Ask me about :** I'm happy to help with anything I know :v:
