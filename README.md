@@ -17,11 +17,11 @@
 
 ### 🤔 About
 -  **Working :**  SDE - EquirusWealth 
--  **Learning :** DSA :zap: | NextJs 🖤	
+-  **Learning :** DSA :zap: | System Design 🖤	
 -  **Hobbies :** Chess ♟️ | Music :headphones:
 -  **Ask me about :** I'm happy to help with anything I know :v:
 -  **Fun fact :** When most developers love coffee, I prefer tea 🍵
 -  **Pronouns :** He/Him/His :innocent:
--  **How to reach me:** anadeeyadav46@gmail.com 📫
+-  **How to reach me:** work.anadee@gmail.com 📫
 
 <img src="https://github-readme-stats.vercel.app/api?username=Anadee11&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
