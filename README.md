@@ -22,5 +22,3 @@
 -  **Fun fact :** When most developers love coffee, I prefer tea 🍵
 -  **Pronouns :** He/Him/His :innocent:
 -  **How to reach me:** work.anadee@gmail.com 📫
-
-<img src="https://github-readme-stats.vercel.app/api?username=Anadee11&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
